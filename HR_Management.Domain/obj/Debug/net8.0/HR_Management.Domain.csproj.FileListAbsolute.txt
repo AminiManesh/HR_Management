@@ -9,3 +9,4 @@ D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Domain\ob
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Domain\obj\Debug\net8.0\refint\HR_Management.Domain.dll
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Domain\obj\Debug\net8.0\HR_Management.Domain.pdb
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Domain\obj\Debug\net8.0\ref\HR_Management.Domain.dll
+D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Domain\obj\Debug\net8.0\HR_Management.Domain.sourcelink.json

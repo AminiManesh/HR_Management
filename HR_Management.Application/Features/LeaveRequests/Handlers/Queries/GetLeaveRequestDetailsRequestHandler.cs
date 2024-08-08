@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using HR_Management.Application.DTOs.LeaveRequest;
 using HR_Management.Application.Features.LeaveRequests.Requests.Queries;
-using HR_Management.Application.Persistence.Contracts;
+using HR_Management.Application.Contracts.Persistence;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ namespace HR_Management.Application.Features.LeaveRequests.Handlers.Queries
 
         public async Task<LeaveRequestDto> Handle(GetLeaveRequestDetailsRequest request, CancellationToken cancellationToken)
         {
-            var leaveRequest = await _leaveRequestRepository.Get(request.Id);
+            var leaveRequest = await _leaveRequestRepository.GetLeaveRequestWithDetails(request.Id);
             return _mapper.Map<LeaveRequestDto>(leaveRequest);
         }
     }

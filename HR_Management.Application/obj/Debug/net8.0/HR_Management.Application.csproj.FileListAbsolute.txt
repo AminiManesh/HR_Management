@@ -13,3 +13,4 @@ D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Applicati
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Application\obj\Debug\net8.0\refint\HR_Management.Application.dll
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Application\obj\Debug\net8.0\HR_Management.Application.pdb
 D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Application\obj\Debug\net8.0\ref\HR_Management.Application.dll
+D:\Programming Files\ASP.Net Core Projects\HR_Management\HR_Management.Application\obj\Debug\net8.0\HR_Management.Application.sourcelink.json

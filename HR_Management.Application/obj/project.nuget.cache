@@ -1,16 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "U5UbdomIYN9VjN/zI7dxwX+3VmouHFeARRO9RuNOAVSvJxzKqjUFxfLuaP3Btcz7XG8ALq1u0MbscgKlm8S5Gw==",
+  "dgSpecHash": "r8G4EK/s2QbT86LKWCc4w7MAiNmnwKobV8ikR0Gx2NA/GW1gfQIy8U19Zo6i3lTrMeY1NkLz3mHAGFKW5jTQbQ==",
   "success": true,
   "projectFilePath": "D:\\Programming Files\\ASP.Net Core Projects\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\Amin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
